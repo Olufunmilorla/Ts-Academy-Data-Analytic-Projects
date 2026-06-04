@@ -16,3 +16,7 @@ Power BI dashboard tracking fleet performance, maintenance cost, fuel efficiency
 
 Excel Data Cleaning Project 
 Cleaned and transformed raw datasets using Excel functions such as SUM IF, COUNTIF, AVERAGE, MAX, TRIM, and text function
+
+Linkedin: www.linkedin.com/in/olufunmilola11
+Email: tomiwaogunmefun@gmail.com
+
